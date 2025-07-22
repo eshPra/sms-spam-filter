@@ -1,0 +1,25 @@
+{
+  "domains": [
+    "trip.com",
+    "icicibank.com",
+    "bluedart.com",
+    "amazon.in",
+    "flipkart.com",
+    "myntra.com",
+    "airtel.in",
+    "secure.bankportal.in",
+    "www.officialstore.com"
+  ],
+  
+  "phrases": [
+    "your otp is",
+    "thank you for shopping",
+    "payment was successful",
+    "transaction id",
+    "logged into your account",
+    "tracking id",
+    "invoice for your order",
+    "booking is confirmed",
+    "has been shipped"
+  ]
+}

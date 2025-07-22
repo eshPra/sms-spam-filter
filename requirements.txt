@@ -1,0 +1,12 @@
+fastapi==0.116.1
+geopandas==1.0.1
+joblib==1.5.1
+numpy==2.0.2
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.29.2
+scikit-learn==1.6.1
+sklearn-pandas==2.2.0
+uvicorn==0.35.0
+python-multipart==0.0.6    
+pydantic==2.5.2            

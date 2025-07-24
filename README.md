@@ -4,7 +4,8 @@ A fast and accurate SMS spam detection system using machine learning, deployed w
 ## Why This Matters
 In the telecom messaging industry, blocking suspicious content (phishing links, scam messages) is critical. However, existing systems based solely on keyword or domain blocklists often produce false positives. For example, blocking all “.com” domains may mistakenly block messages containing legitimate domains like trip.com.
 This project aims to create a smarter filtering system that applies both rule-based filtering and machine learning classification to avoid such issues.
-
+## Video Link
+https://www.loom.com/share/8893a68797a14178bc557d0aa6d3b1ec?sid=943493ba-4340-48a4-81ce-19637cfe9ba3
 
 ##  Project Structure
 
